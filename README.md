@@ -19,3 +19,5 @@ Things I am passionate about:
 - IoT
 - Containerization and Orchestration
 - Edge Computing
+
+Pronouns He/They
