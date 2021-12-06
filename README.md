@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**ATechAdventurer/ATechAdventurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Cameron Steele and I love to solve problems with technology.
 
-Here are some ideas to get you started:
+Things I am passionate about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Home Automation
+- Data Hoarding
+- Virtual, Augmented and Mixed Reality
+- Process automation
+- Internal Tooling Development
+- Embeded Systems Development
+- GIS and Mapping Systems
+- LORAWAN, Matter, Thread, Zigbee and Z-Wave
+- 3D Printing
+- Rapid Prototyping
+- Generative Art
+- Video systems
+- IoT
+- Containerization and Orchestration
+- Edge Computing
