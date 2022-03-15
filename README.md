@@ -2,6 +2,8 @@
 
 My name is Cameron Steele and I love to solve problems with technology.
 
+Pronouns He/They
+
 Things I am passionate about:
 
 - Home Automation
@@ -19,5 +21,3 @@ Things I am passionate about:
 - IoT
 - Containerization and Orchestration
 - Edge Computing
-
-Pronouns He/They
