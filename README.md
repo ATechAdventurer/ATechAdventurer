@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Cameron Steele and I love to solve problems with technology.
+My name is V and I love to solve problems with technology.
 
-Pronouns He/They
+Pronouns She/They
 
 Things I am passionate about:
 
